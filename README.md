@@ -1,6 +1,8 @@
 
 # Professional Photographer Landing Page Project
 
+![photo-landing-layout](https://github.com/Honorato-Dev/tech-quiz/assets/101150943/49bdc2fa-f619-4989-9f2d-359ca415dcc1)
+
 ## Project Overview
 
 This is a Landing Page project developed for a professional photographer, using modern technologies such as Tailwind CSS, Next.js, and React. The aim of this Landing Page is to provide a visually appealing and informative presentation of the photographer's work. It includes sections to showcase photo galleries, information about the services offered, client testimonials, and a contact form.
