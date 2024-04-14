@@ -26,8 +26,8 @@ This is a Landing Page project developed for a professional photographer, using 
 1. Ensure you have Node.js installed on your machine. You can download it from [nodejs.org](https://nodejs.org/).
 2. Clone this repository to your local environment:
 
-   ```bash
-   git clone https://github.com/Honorato-Dev/photo-landing
+ ```bash
+git clone https://github.com/Honorato-Dev/photo-landing
    ```
   ###  Navigate to the project directory:
   ```bash
