@@ -9,7 +9,8 @@
 
 # Professional Photographer Landing Page Project
 
-![photo-landing-layout](https://github.com/Honorato-Dev/tech-quiz/assets/101150943/49bdc2fa-f619-4989-9f2d-359ca415dcc1)
+![layout-photo-landing](https://github.com/Honorato-Dev/photo-landing/assets/101150943/2a124b58-0e53-4315-82ab-8827d6f80710)
+
 
 ## Project Overview
 
