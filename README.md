@@ -12,7 +12,7 @@
 ![layout-photo-landing](https://github.com/Honorato-Dev/photo-landing/assets/101150943/2a124b58-0e53-4315-82ab-8827d6f80710)
 
 
-#### Check out: https://vercel.com/honoratos-projects
+#### Check out: https://photo-landing.vercel.app/
 
 
 ## Project Overview
